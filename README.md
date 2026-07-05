@@ -12,7 +12,7 @@ I'm a Computer Science student building Android apps in Kotlin with real backend
 
 ### 🚀 About Me
 
-- 🎓 Bachelor's student in Computer Science
+- 🎓 Bachelor's student in Software Engineering
 - 📱 Currently deep in **Android development** (Kotlin, Jetpack Compose)
 - 🔗 Learning to build the **backend APIs** that power those apps
 - 🧠 Long-term goal: become a professional software engineer
