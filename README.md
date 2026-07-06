@@ -6,6 +6,9 @@
 
 I'm a Computer Science student building Android apps in Kotlin with real backend APIs behind them — learning in public, one project at a time.
 
+### 🕒 Live Clock (Bangladesh Time):
+<img src="https://custom-clock.vercel.app/api/clock?timezone=Asia/Dhaka&color=white" alt="Live Clock" />
+
 </div>
 
 ---
@@ -42,12 +45,6 @@ I'm a Computer Science student building Android apps in Kotlin with real backend
 
 ### 📌 Featured Projects
 
-<!--
-Replace these three rows once your first flagship repos exist.
-Use GitHub's pinned-repo feature for the actual pinning; this table is a
-secondary showcase for anyone reading the profile README itself.
--->
-
 | Project | Description | Stack |
 |---|---|---|
 | [taskflow-android](https://github.com/rroyops/taskflow-android) | Task manager Android app with a real backend sync API | Kotlin, Compose, Spring Boot |
@@ -58,8 +55,8 @@ secondary showcase for anyone reading the profile README itself.
 
 <div align="center">
 
-![rroyops's GitHub stats](https://github-readme-stats.vercel.app/api?username=rroyops&show_icons=true&theme=default&hide_border=true&title_color=7F52FF&icon_color=0FA3A3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rroyops&layout=compact&hide_border=true&title_color=7F52FF)
+<img src="https://github-readme-stats.vercel.app/api?username=rroyops&show_icons=true&theme=dark" alt="rroyops GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rroyops&layout=compact&theme=dark" alt="Top Langs" height="150" />
 
 </div>
 
