@@ -69,6 +69,8 @@ secondary showcase for anyone reading the profile README itself.
 </div>
 
 > Stats take a little while to populate meaningfully — they'll fill out as you commit real work.
+>
+> ⚠️ If the stats cards show broken/blank instead of the actual stats, the public `github-readme-stats.vercel.app` instance is just temporarily rate-limited (very common, not your setup). Refresh the page after a few minutes. If it stays broken for days, deploy your own free copy: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own Vercel account in ~2 minutes, then swap the domain in the image URLs above for your own Vercel URL.
 
 ### 🐍 Contribution Snake
 
@@ -101,7 +103,7 @@ secondary showcase for anyone reading the profile README itself.
 ---
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/rroyops/count.svg" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=rroyops&label=Profile%20Views&color=7F52FF&style=flat" alt="visitor count" />
 </div>
 
 <div align="center">
