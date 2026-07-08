@@ -4,7 +4,7 @@
 
 ### Full-Stack Android Developer in Training
 
-I'm a Computer Science student building Android apps in Kotlin with real backend APIs behind them — learning in public, one project at a time.
+I'm a Software Engineering student building Android apps in Kotlin with real backend APIs behind them — learning in public, one project at a time.
 
 </div>
 
