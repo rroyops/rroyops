@@ -50,7 +50,7 @@ secondary showcase for anyone reading the profile README itself.
 
 | Project | Description | Stack |
 |---|---|---|
-| [[taskflow-android](https://github.com/rroyops/taskflow-android)](https://github.com/rroyops/lifeflow) | Task manager Android app with a real backend sync API | Kotlin, Compose, Spring Boot |
+| (https://github.com/rroyops/lifeflow) | Task manager Android app with a real backend sync API | Kotlin, Compose, Spring Boot |
 | [expensewise-api](https://github.com/rroyops/expensewise-api) | REST API for personal expense tracking, built for a companion Android client | Spring Boot, PostgreSQL |
 | _more coming as I build them_ | | |
 
