@@ -82,8 +82,6 @@ secondary showcase for anyone reading the profile README itself.
 
 </div>
 
-> ⚠️ This animation needs a one-time setup — see **"Wiring up the snake"** below. Until the workflow runs once, this image will look broken.
-
 ### 🎯 Currently Learning / Next Up
 - [ ] Jetpack Compose state management patterns
 - [ ] Clean Architecture on Android (data/domain/presentation layers)
